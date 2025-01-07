@@ -1,8 +1,4 @@
-
-
-###
-
-<h1 align="left">Hi 👋! My name is ZUBAYER and I'm a Frontend Web Developer</h1>
+<h1 align="left">Welcome!<br> My name is ZUBAYER and I'm a Frontend Web Developer</h1>
 
 ###
 
@@ -61,8 +57,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/nahin440/nahin440/output/snake.svg" alt="Snake animation" />
 
