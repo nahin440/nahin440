@@ -1,4 +1,4 @@
-<img align="left" height="280" src="https://img.freepik.com/free-vector/flat-design-gaming-concept-youtube-channel-art_23-2149858945.jpg?t=st=1736269774~exp=1736273374~hmac=c875eda1cca2550d91ad3ae4bdee8e0ccac769d3ea12a22a41a674a18bc54ff2&w=1060"  />
+
 
 ###
 
