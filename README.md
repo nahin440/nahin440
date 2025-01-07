@@ -1,3 +1,7 @@
+<img src="https://i.ibb.co/T2PHrN2/Picsart-25-01-08-01-47-55-550.jpg" alt="Banner Image" style="width:100%;"/>
+
+###
+
 <h1 align="left">Welcome!<br> My name is ZUBAYER and I'm a Frontend Web Developer</h1>
 
 ###
