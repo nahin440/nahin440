@@ -67,3 +67,8 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nahin440/nahin440/output/snake.svg" alt="Snake animation" />
+</div>
+
