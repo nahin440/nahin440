@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGbpSTv-F0/TsupHfE5wUD3mUCA0RTxkw/view?utm_content=DAGbpSTv-F0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7433caa34d" alt="Banner Image" style="width:100%;"/>
+<img src="https://i.ibb.co.com/fvwJbSX/Digital-Marketing-Agency-2.png" alt="Banner Image" style="width:100%;"/>
 
 ###
 
