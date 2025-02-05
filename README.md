@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <a href="zubayer.nahin@gmail.com" target="_blank">
+  <a href="mailto:zubayer.nahin@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/zubayer123/" target="_blank">
