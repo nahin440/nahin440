@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Next.js<br>🎯 Goals: Completing full stack in 2025<br>🎲 Fun fact: I love to sleep</p>
+<p align="left">✨ writing 'hello world' since 2023<br>📚 I'm currently learning Next.js<br>🎯 Goals: Completing react native/flutter in 2025<br>🎲 Fun fact: I love to eat🍜</p>
 
 ###
 
